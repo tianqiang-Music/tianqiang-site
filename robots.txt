@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tianqiang-music.github.io/tianqiang-site/sitemap.xml
